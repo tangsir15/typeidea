@@ -1,13 +1,4 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
+*.pyc 
+*.swp 
+*.sqlite3
 
-pkg/
-src/
